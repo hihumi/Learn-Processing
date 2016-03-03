@@ -1,5 +1,5 @@
 float speed  = 20;
-int diameter = 150;
+int diameter = 100;
 float x;
 float y;
 
